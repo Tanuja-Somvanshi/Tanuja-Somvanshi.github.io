@@ -1,7 +1,6 @@
 # Tanuja Somvanshi
 📍Nashik, Maharashtra
-
-🌐[www.linkedin.com/in/tanuja-somvanshi/]
+🌐[LinedIN](www.linkedin.com/in/tanuja-somvanshi/)
 
 # About Me 🎓💼
 I am a dedicated individual with a strong educational background in Data Science Engineering from Usha Mittal Institute of Technology. 📊 With internships at leading companies like Docbot Pvt Ltd, Pregrad, Coincent, and Smartknower, I have gained hands-on experience in business data analysis, data science, and analytics. 🚀
